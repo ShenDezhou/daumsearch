@@ -1,0 +1,16 @@
+{
+  "name": "daumsearch",
+  "main": "./lib/googlesearch",
+  "version": "1.0.0",
+  "description": "Search Highlighted word in daum",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "daumsearch:daum-it"
+  },
+  "repository": "https://github.com/shendezhou/daumsearch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
